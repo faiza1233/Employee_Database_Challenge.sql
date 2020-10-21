@@ -1,5 +1,5 @@
 # Employee_Database_Challenge.sql
-README.md
+
 Purpose of this analysis
 
 Pewlett-Hackard is a large company with thousands of employees and its have been around for a long time. Baby boomers started to retire at a rapid rate. Pewlett-Hackard is looking at the future two ways; first its offering retirement package for those who meet certain criteria. Second, it stated to think which positions can be filled in near future. Number of upcoming retirement will produce thousands of job openings. Bobby is an HR analysis, whose task is to do employee research and answer the following questions. Who will be retiring in the next few years ? How many positions Pewlett-Hackard will need to fill. his analysis will help the company find answers regarding retirement package.
