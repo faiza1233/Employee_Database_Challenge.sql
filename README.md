@@ -147,7 +147,7 @@ Results
     
 Summery
 
-1940 employees are eligible for mentorship.However, 90398 employees are retiring. So, there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+1940 employees are eligible for mentorship. However, 90398 employees are retiring. So, there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
 -- number of employees eligible for mentorship
 
